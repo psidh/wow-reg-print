@@ -16,7 +16,7 @@ export default function Home() {
     setFilteredData(filtered);
   };
 
-  return (
+  return(
     <div className="flex flex-col items-center justify-center py-24">
       <div className="flex items-center justify-center px-4 space-x-4">
         <input
